@@ -7,7 +7,7 @@
 ### 💬 HOBBY
 `#soccer` `#music` `#movies` `#BOOK` `#CAFE` `#COFFEE` `#POETRY`...
 ### 💬 Education
-`# Hanyang University Master's student`
+`# Hanyang University(SEOUL) Media Communication Master's student`
 
 
 
