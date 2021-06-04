@@ -3,9 +3,10 @@
 ### 💬 NAME
 `WOON-KI CHO`
 ### 💬 AGE
-`29` `1993.10.31`
+`1993.10.31`
+`29`
 ### 💬 HOBBY
-`#soccer` `#music` `#movies` `#BOOK` `#CAFE` `#COFFEE` `#POETRY` `#MATHEMATICS`...
+`#soccer` `#music` `#movies` `#book` `#Cafe` `#coffee` `#poetry` `#mathematics`...
 ### 💬 Education
 `# Hanyang University(SEOUL) Media Communication Master's student`
 
