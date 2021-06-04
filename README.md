@@ -13,7 +13,8 @@
 
 
 ### 💬 Education
-`# Hanyang University(SEOUL) Media Communication Master's student`
+`#Hanyang University(SEOUL) 
+`#Media Communication Master's student`
 
 
 
