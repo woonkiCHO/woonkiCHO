@@ -1,4 +1,4 @@
-## profile
+## PROFILE
 
 ### 💬 NAME
 `WOON-KI CHO`
