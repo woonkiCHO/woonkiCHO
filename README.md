@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-### NAME 💬 
+### 💬 NAME
 `WOON-KI CHO`
-### AGE 💬 
+### 💬 AGE
 `29`
-### HOBBY 💬
+### 💬 HOBBY
 `#soccer` `#music` `#movies` `#BOOK` `#CAFE` `#COFFEE` `#POETRY`...
-### Education 💬
+### 💬 Education
 `# Hanyang University Master's student`
 
 
