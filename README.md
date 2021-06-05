@@ -9,7 +9,7 @@
 
 
 ### 💬 HOBBY
-`#soccer` `#music` `#movies` `#book` `#Cafe` `#coffee` `#poetry` `#mathematics` `#BigData` `#Python` `#CSS` `Javascript` `Adv` `Marketing`...
+`#soccer` `#music` `#movies` `#book` `#Cafe` `#coffee` `#poetry` `#mathematics` `#BigData` `#Python` `#CSS` `#Javascript` `#Adv` `#Marketing`...
 
 
 ### 💬 Education
