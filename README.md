@@ -13,8 +13,8 @@
 
 
 ### 💬 Education
-`Hanyang University(Seoul)` 
-`Media Communication Master's student`
+`Hanyang University(Seoul) 
+Media Communication Master's student`
 
 
 
