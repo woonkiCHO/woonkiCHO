@@ -14,7 +14,7 @@
 
 ### 💬 Education
 `Hanyang University(Seoul)` 
-Media Communication Master's student
+`Media Communication Master's student`
 
 
 
