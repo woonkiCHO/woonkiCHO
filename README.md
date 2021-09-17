@@ -4,7 +4,10 @@
 `WOON-KI CHO`
 
 ### 💬 HOBBY
-`#soccer` `#music` `#movies` `#book` `#Cafe` `#coffee` `#mathematics` `#BigData` `#Python` `#CSS` `#Javascript` `#Adv` `#Marketing`...
+`#playing soccer` `#Listening to music` `#Watch a movie` `#reed a book` `#drinking coffee` 
+
+### 💬 Study
+`#mathematics` `#BigData` `#Python` `#Adv` `#Marketing`...
 
 
 
