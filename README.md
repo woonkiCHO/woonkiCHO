@@ -9,6 +9,6 @@
 ### 💬 Study
 `#mathematics` `#BigData` `#Python` `#Adv` `#Marketing`
 
-
-
+### 💬 Final academic background
+HANYANG UNIVERSITY(MEDIA COMMUNICATION) 
 
