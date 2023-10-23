@@ -4,5 +4,5 @@
 WOON-KI CHO
 
 
-### 💬 Study
+### 💬 STUDY
 #mathematics #BigData #Python #Adv #Marketing
